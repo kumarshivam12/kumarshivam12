@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+<h1 align="center">Hello 👋, I'm Shivam</h1>
 <h3 align="center">A Technology enthusiast, DevOps Engineer and Backend Developer.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarshivam12 alt=kumarshivam12/> </p>
 
