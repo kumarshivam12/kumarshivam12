@@ -12,7 +12,13 @@
 
 - ⚡ Fun fact **Python Over Java**
 
-<p align="left"><img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=amazonwebservices width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg alt=django width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=docker width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p><p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kumarshivam12&show_icons=true alt=kumarshivam12 /> </p>
+
+
+[![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=kumarshivam12&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam12)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p align="center">
 <a href=https://dev.to/kumarshivam12 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="kumarshivam12" height="20" width="20" /></a>
