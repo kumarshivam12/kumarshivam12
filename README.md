@@ -14,7 +14,7 @@
 
 
 
-[![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=kumarshivam12&hide=contribs&show_icons=true&theme=dracula)
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=kumarshivam12&hide=contribs&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshivam12)](https://github.com/anuraghazra/github-readme-stats)
 
