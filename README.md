@@ -26,3 +26,4 @@
 <a href=https://linkedin.com/in/kshivam-kumar target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="kshivam-kumar" height="20" width="20" /></a>
 </p>
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kshivam6122/my-stack)
