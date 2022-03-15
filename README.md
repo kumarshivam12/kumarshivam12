@@ -1,18 +1,12 @@
 <img align="centre" src="https://raw.githubusercontent.com/kumarshivam12/kumarshivam12/master/Shivam.png" />
 <h3 align="center">A Technology enthusiast, DevOps Engineer and Backend Developer.</h3>
+<h4 align="center">⚡ Empowring Humans With Sane Systems.</h4>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarshivam12 alt=kumarshivam12/> </p>
 
 
-## Welcome To my Github Profile !!
-### Go ahead, Explore and Collaborate To The Amazing Projects I Have Been Working on.
-### ✌Check Out The Projects I'm Most Proud of : [ElasticBeanstalk Deployment Action](https://github.com/kumarshivam12/Aws-ElasticBeanstalk) , [FlaskApp](https://github.com/kumarshivam12/flaskapp) , [Docker Pipelines](https://github.com/kumarshivam12/cicd-pileline) and [More](https://github.com/kumarshivam12?tab=repositories)
-
+### Welcome To my Github Profile !!
 
 - 📫 How to reach me **kumarshivam192@gmail.com**
-
-- ⚡ Fun fact **Python Over Java**
-
-
 
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=kumarshivam12&hide=contribs&show_icons=true&theme=dracula)
 
