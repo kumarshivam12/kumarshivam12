@@ -1,6 +1,6 @@
 <img align="centre" src="https://raw.githubusercontent.com/kumarshivam12/kumarshivam12/master/Shivam.png" />
 <h3 align="center">A Technology enthusiast, DevOps Engineer and Backend Developer.</h3>
-<h4 align="center">⚡ Empowring Humans With Sane Systems.</h4>
+<h4 align="center">⚡ Empowering Humans With Sane Systems.</h4>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarshivam12 alt=kumarshivam12/> </p>
 
 
