@@ -6,7 +6,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarshivam12 alt=kumarshivam12/> </p>
 
 
-![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivam-moe&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=dracula)
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=kumarshivam12&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=dracula)
 
 ![coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kumarshivam12&layout=compact&hide_title=true)
 
