@@ -8,9 +8,6 @@
 
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=kumarshivam12&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=dracula)
 
-![coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kumarshivam12&layout=compact&hide_title=true)
-
-
 [![wakatime](https://wakatime.com/badge/user/7da8b0e2-261d-4c09-b268-21baa7b6d14a.svg)](https://wakatime.com/@7da8b0e2-261d-4c09-b268-21baa7b6d14a)
 
 
